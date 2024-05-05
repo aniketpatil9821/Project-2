@@ -19,9 +19,9 @@ First adding all the required libraries
 3. Merging the df1 and df2 as merged_df on instant column and used inner joint
    checking the shape, missing values and treating the missiog values
    convert categorical column into numeric
-4.uploaded df3 and Concate the merged_df with same.
+4.uploaded df3 and appending the merged_df as new_df.
    Checking the shape, unique values, desciption, null values
-   checking the IQR, skewness, correaltion , plotting the outliers
+   checking the IQR, skewness, correaltion , plotting the outliers by boxplot and handling outliers.
 
    
 
